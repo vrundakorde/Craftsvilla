@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="48349" started-at="2018-08-16T10:02:30Z" finished-at="2018-08-16T10:03:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="48349" started-at="2018-08-16T10:02:30Z" finished-at="2018-08-16T10:03:18Z">
+      <class name="script.TestScript">
+        <test-method status="PASS" signature="PreConditions()[pri:0, instance:script.TestScript@bd8db5a]" name="PreConditions" is-config="true" duration-ms="13392" started-at="2018-08-16T10:02:30Z" finished-at="2018-08-16T10:02:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PreConditions -->
+        <test-method status="PASS" signature="validLogin()[pri:0, instance:script.TestScript@bd8db5a]" name="validLogin" duration-ms="30805" started-at="2018-08-16T10:02:43Z" finished-at="2018-08-16T10:03:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method status="PASS" signature="postConditions()[pri:0, instance:script.TestScript@bd8db5a]" name="postConditions" is-config="true" duration-ms="4109" started-at="2018-08-16T10:03:14Z" finished-at="2018-08-16T10:03:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postConditions -->
+      </class> <!-- script.TestScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
